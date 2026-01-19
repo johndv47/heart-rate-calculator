@@ -1,5 +1,5 @@
 '''
-script: heart_rate_calculator.py
+script: pinto_heart_rate_calculator.py
 action: a. request user input for their age.
         b. perform max heart rate calculation.
         c. print maximum heart rate.
